@@ -1,8 +1,8 @@
 ---
-title: "Self Guided Setup"
+title: "Getting Started"
 chapter: true
 draft: false
-weight: 4
+weight: 2
 ---
 
 # Self-Paced Workshop
