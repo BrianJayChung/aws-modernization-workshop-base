@@ -4,19 +4,15 @@ chapter: true
 weight: 1
 ---
 
-# AWS Modernization Workshop
+# AWS Marketplace DevOps Workshop Series Hands-on Lab with LaunchDarkly
+
 
 ### Welcome
 
-In this workshop you will learn why DevOps is a pattern for modernization and how to use patterns to release features and functionality at a faster pace.
+This hands-on lab is part of the AWS Marketplace DevOps Workshop Series. In this lab, you will gain experience in using LaunchDarkly to dynamically modify and release new application features through the use of feature flags. You will also learn to deploy an application using GitHub and AWS App Runner.
 
-### Learning Objectives
-- Deploy Cloud9 as an IDE for completing workshop exercises.
-- How DevOps patterns help to release features and functionality faster.
-- Best practices for implementing 2 pizza team pipelines.
+(PMM) LaunchDarkly is a self-service CI/CD platform that allows engineers and DevOps team to build, test, deploy, and verify software, on-demand. By completing this lab you will learn how to leverage Partner for easier deployments of your applications.
 
-{{% notice warning %}}
-<p style='text-align: left;'>
-The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.
-</p>
-{{% /notice %}}
+LaunchDarkly is available in AWS Marketplace. AWS Marketplace is a digital software catalog that makes it easy to find, try, buy, deploy, and manage software that runs on AWS. AWS Marketplace has a broad and deep selection of ISV solutions that can help you build your ideal DevOps toolchain in the cloud.
+
+<a href="https://aws.amazon.com/marketplace/seller-profile?id=0f587861-6400-4321-b49e-eedcd4c645b8" target="_blank"><img src="/images/setup/available-in-awsmp-badge.png"></a>
