@@ -18,8 +18,6 @@ At your company, ABC, you are releasing a new custom dashboard and your mission 
 This master will walk through deploying a demo application using AWS App Runner, and setting up a LaunchDarkly feature flag to control the release of the new feature through a feature flag
 
 ### Learning Objectives
-- How small, measurable changes drive agility: Build, deploy and test multiple times a day instead of making large complex changes that are difficult to integrate and test
+- How to set up AWS App Runner and deploy an application
+- How to use a feature flag to decouple release from deploy
 - How to deliver business value rapidly by releasing new features and functionality to customers faster
-- How to set up configuration-as-code for your CI/CD tooling (CloudBees CI)
-- How to templatize CI/CD pipelines to conform with best practices.  Providing CI/CD as a service for end users
-- Ensuring governance and standardization while also empowering developer, security and operations teams by running Jenkins at scale
