@@ -11,7 +11,7 @@ weight: 1
 
 This hands-on lab is part of the AWS Marketplace DevOps Workshop Series. In this lab, you will gain experience in using LaunchDarkly to dynamically modify and release new application features through the use of feature flags. You will also learn to deploy an application using GitHub and AWS App Runner.
 
-(PMM) LaunchDarkly is a self-service CI/CD platform that allows engineers and DevOps team to build, test, deploy, and verify software, on-demand. By completing this lab you will learn how to leverage Partner for easier deployments of your applications.
+LaunchDarkly is a feature management and experimentation platform that enables all teams to safely deliver and control software through feature flags.
 
 LaunchDarkly is available in AWS Marketplace. AWS Marketplace is a digital software catalog that makes it easy to find, try, buy, deploy, and manage software that runs on AWS. AWS Marketplace has a broad and deep selection of ISV solutions that can help you build your ideal DevOps toolchain in the cloud.
 
